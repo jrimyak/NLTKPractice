@@ -4,9 +4,6 @@ import urllib.request
 
 import nltk
 
-import matplotlib.pyplot as plt
-import numpy as np
-
 
 #Grabbing web content data
 response = urllib.request.urlopen('http://php.net/')
